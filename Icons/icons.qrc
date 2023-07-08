@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="Logo">
+    <file>toDo.png</file>
+  </qresource>
+  <qresource prefix="Buttons">
+    <file>accept.png</file>
+    <file>remove.png</file>
+  </qresource>
+</RCC>
